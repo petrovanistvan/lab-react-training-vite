@@ -80,3 +80,19 @@
 .owner {
   text-align: left;
 }
+
+.imageDisplay img {
+  width: 100px;
+  height: auto;
+  border-radius: 100%;
+}
+
+.driverCardContainer {
+  background-color: rgb(78, 116, 251);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-radius: 16px;
+}
